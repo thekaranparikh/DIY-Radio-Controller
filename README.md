@@ -2,6 +2,7 @@
 
 A custom-built **Arduino Nano**-based RC transmitter using **NRF24L01+PA+LNA** long-range wireless module, dual joysticks, switches, potentiometer, and a 16x2 LCD for live telemetry.  
 Designed for **drones, RC cars, boats, and robotics projects**, with fully open-source code and wiring details.
+This Project is Referenced from MAX IMAGINATION. All the circuit diagrams, BOM, etc have been referenced from MAX IMAGINATION yt channel.
 
 ---
 
