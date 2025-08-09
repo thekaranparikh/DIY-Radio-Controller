@@ -1,11 +1,11 @@
-# 📡 DIY Radio Controller
+# DIY Radio Controller
 
 A custom-built **Arduino Nano**-based RC transmitter using **NRF24L01+PA+LNA** long-range wireless module, dual joysticks, switches, potentiometer, and a 16x2 LCD for live telemetry.  
 Designed for **drones, RC cars, boats, and robotics projects**, with fully open-source code and wiring details.
 
 ---
 
-## 🚀 Features
+## Features
 - **Arduino Nano** brain with NRF24L01 long-range wireless communication
 - **Two analog joysticks** for complete 4-axis control
 - **Two SPDT switches** for mode toggles (arming, pairing, etc.)
@@ -16,11 +16,11 @@ Designed for **drones, RC cars, boats, and robotics projects**, with fully open-
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ---
 
-## 🛠️ Hardware
+## Hardware
 | Component | Quantity | Notes |
 |-----------|----------|-------|
 | Arduino Nano | 1 | Main controller board |
@@ -34,7 +34,7 @@ Designed for **drones, RC cars, boats, and robotics projects**, with fully open-
 
 ---
 
-## 🔌 Pin Mapping
+## Pin Mapping
 | Component | Pin |
 |-----------|-----|
 | NRF24L01 CE  | D10 |
@@ -56,24 +56,24 @@ Designed for **drones, RC cars, boats, and robotics projects**, with fully open-
 
 ---
 
-## 🔌 Wiring Diagram
+## Wiring Diagram
 ![Wiring Diagram](media/wiring_diagram.png)
 
 ---
 
-## 📸 Gallery
+## Gallery
 | Build | In Use |
 |-------|--------|
 | ![Controller Front](media/controller_photo.jpg) | ![LCD Telemetry](media/lcd_display.jpg) |
 
 ---
 
-## 🎥 Demo Video
-[📺 Watch on YouTube](https://youtu.be/your-demo-link)
+## Demo Video
+[Watch on YouTube](https://youtu.be/your-demo-link)
 
 ---
 
-## 💻 How to Upload the Code
+## How to Upload the Code
 1. Install **Arduino IDE**
 2. Install required libraries:
    - `RF24`
@@ -85,7 +85,7 @@ Designed for **drones, RC cars, boats, and robotics projects**, with fully open-
 
 ---
 
-## 🛠️ Future Improvements
+## Future Improvements
 - Add battery voltage sensing
 - Integrate with receiver code for multiple vehicle types
 - 3D printed custom enclosure
@@ -93,10 +93,10 @@ Designed for **drones, RC cars, boats, and robotics projects**, with fully open-
 
 ---
 
-## 📝 License
+## License
 This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 This is a DIY project. Always ensure **safe operating practices** when using radio-controlled devices — keep away from crowds and sensitive areas.
