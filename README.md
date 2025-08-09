@@ -58,7 +58,7 @@ This Project is Referenced from MAX IMAGINATION. All the circuit diagrams, BOM, 
 ---
 
 ## Wiring Diagram
-![Wiring Diagram](media/wiring_diagram.png)
+![Wiring Diagram](media/wiring_diagram.jpg)
 
 ---
 
